@@ -1,2 +1,2 @@
-﻿hanoi_tower.obj : error LNK2005: _main이(가) gcd.obj에 이미 정의되어 있습니다.
-C:\Users\hhh317\Visual Studio\basic computer programming\9장\Chapter9 함수와 변수\Debug\Chapter9 함수와 변수.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  saving.cpp
+  Chapter9 함수와 변수.vcxproj -> C:\Users\hhh317\Visual Studio\basic computer programming\제9장\Chapter9 함수와 변수\Debug\Chapter9 함수와 변수.exe

@@ -7,7 +7,7 @@ int main(void)
 	printf("정수를 입력하시오: ");
 	scanf_s("%d", &n);
 
-	i = 1;
+	i = 0;
 	sum = 0;
 
 	while (i <= n)
